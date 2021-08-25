@@ -26,8 +26,8 @@ name = "portfolio"
 url = "#portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "actors"
-url = "#actors"
+name = "actor"
+url = "#actor"
 weight = 4
 [[Languages.en.menu.main]]
 name = "pricing"
