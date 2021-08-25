@@ -1,5 +1,5 @@
 ---
-actors:
+actor:
   enable: true
   title: Our Actors
   actor_member:
