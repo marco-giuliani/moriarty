@@ -3,12 +3,11 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
-  - name: Abul Mal Muhit
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
-    designation: CEO/Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: Vanessa Giuliani
+    image_webp: images/team/vanessa.webp
+    image: images/team/vanessa.jpg
+    designation: Vanessa
+    content: Vanessa is the best thing since sliced bread.
     social:
     - icon: ti-facebook
       link: "#"
