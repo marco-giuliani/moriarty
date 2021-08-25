@@ -65,7 +65,7 @@ name = "portefeuille"
 url = "#portfolio"
 weight = 3
 [[Languages.fr.menu.main]]
-name = "acteurs"
+name = "acteur"
 url = "#actors"
 weight = 4
 [[Languages.fr.menu.main]]
