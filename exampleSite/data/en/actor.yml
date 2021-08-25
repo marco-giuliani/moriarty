@@ -1,6 +1,6 @@
 ---
 actors:
-  enable: false
+  enable: true
   title: Our Actors
   actor_member:
   - name: Abul Mal Muhit
