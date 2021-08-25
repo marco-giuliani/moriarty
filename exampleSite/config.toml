@@ -58,8 +58,8 @@ url = "#portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
+name = "actors"
+url = "#actors"
 weight = 4
 
 [[Languages.en.menu.main]]
@@ -100,8 +100,8 @@ url = "#portfolio"
 weight = 3
 
 [[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
+name = "acteurs"
+url = "#actors"
 weight = 4
 
 [[Languages.fr.menu.main]]
