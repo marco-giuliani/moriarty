@@ -18,8 +18,8 @@
   translation: Services
 - id: portfolio
   translation: Portfolio
-- id: team
-  translation: Équipe
+- id: actor
+  translation: Acteur
 - id: pricing
   translation: Tarification
 - id: blog

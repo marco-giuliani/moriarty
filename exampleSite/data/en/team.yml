@@ -1,9 +1,9 @@
 ############################### team ############################
-team:
+actors:
   enable : true
-  title : Our Team
-  team_member :
-    # team member loop
+  title : Our Actors
+  actor_member :
+    # actor member loop
     - name : Abul Mal Muhit
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
@@ -19,7 +19,7 @@ team:
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
         
-    # team member loop
+    # actor member loop
     - name : Frank Miller
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
@@ -35,7 +35,7 @@ team:
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
         
-    # team member loop
+    # actor member loop
     - name : Michael Jonson
       image_webp : images/team/team-3.webp
       image : images/team/team-3.jpg
@@ -51,7 +51,7 @@ team:
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
         
-    # team member loop
+    # actor member loop
     - name : Mo. Kha. Alamgir
       image_webp : images/team/team-4.webp
       image : images/team/team-4.jpg
