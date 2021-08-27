@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Moriarty Management"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by [Tropicaldo](https://tropicaldo.com) & Developed by [Marco](https://tropicaldo.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -41,13 +41,9 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by [Tropicaldo](https://tropicaldo.com) & Developed by [Marco](https://tropicaldo.com)"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -80,13 +76,9 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Tropicaldo"
+description = "Moriarty Management client site"
 google_analytics_id = ""
 logo = "images/mm_small_logo.jpg"
 post_share = true
