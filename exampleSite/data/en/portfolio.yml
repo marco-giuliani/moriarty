@@ -1,59 +1,73 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: Our Actors Images
   portfolio_item:
   - name: Vanessa Image
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
-    categories: ["vanessa"]
+    categories:
+    - vanessa
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "/blog/vanessa-giuliani/"
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories: ["development"]
+    categories:
+    - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
-    categories: ["development", "design"]
+    categories:
+    - development
+    - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Bottol Label
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
-    categories: ["development", "design"]
+    categories:
+    - development
+    - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Shopping Bag
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
-    categories: ["design"]
+    categories:
+    - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
-    categories: ["development", "design"]
+    categories:
+    - development
+    - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
-    categories: ["development"]
+    categories:
+    - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Stationary Design
     image: images/portfolio/portfolio-8.jpg
     image_webp: images/portfolio/portfolio-8.webp
-    categories: ["development", "design"]
+    categories:
+    - development
+    - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories: ["photography", "design"]
+    categories:
+    - photography
+    - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
