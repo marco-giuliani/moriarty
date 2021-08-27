@@ -16,7 +16,7 @@ actor:
     - icon: ti-linkedin
       link: "#"
     - icon: ti-dribbble
-      link: "#"
+      link: "/blog/vanessa-giuliani/"
   - name: Frank Miller
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
