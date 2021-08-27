@@ -1,27 +1,20 @@
-############################# feature ###################################
+---
 feature:
-  enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  enable: true
+  image: images/about/about-business-man.jpg
+  image_webp: images/about/about-business-man.webp
+  title: We’re An Actor Management Agency.
+  content: This is where we tell you what we do that is so magic!
+  feature_item:
+  - title: Promote your talents
+    icon: ti-world
+    content: Let us shout from the rooftops
+  - title: Tweak your skills to match roles
+    icon: ti-panel
+    content: We will help you target a specific role
+  - title: 'Watch you grow '
+    icon: ti-stats-up
+    content: When your career takes off, we are there with you
+  - title: Shout from the rooftops
+    icon: ti-announcement
+    content: We will keep you updated with all the latest roles
