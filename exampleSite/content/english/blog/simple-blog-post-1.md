@@ -1,18 +1,22 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+title: Vanessa profile
+date: 2021-08-30T06:52:36+00:00
+image_webp: "/images/team/vanessa.webp"
+image: "/images/team/vanessa.jpg"
 author: John Doe
-description : "This is meta description"
+description: This is meta description
+
 ---
+At the age of 13, my family and I travelled in a motorhome around Europe for a year eventually stopping in Italy where we lived for a year. It was here where I found my love for acting and adventure; luckily the two seem to go hand in hand and I have thrown myself into both.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+I have attended a number of classes and schools and have travelled all over Europe gaining the life experience needed in order to portray a variety of characters. At the beginning of 2013 I travelled to the south of France on my own to hike the Camino De Santiago for a number of months. Also, after working through North and Central Italy in theatre for the first five months of this year, I pushed myself to walk a different, more difficult route on the Camino De Santiago hiking 815km over 5 weeks. Here I pushed and tested my limits in determination, motivation and character.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+I love the possibility of meeting new people whilst immersing and challenging myself in new, exciting countries and characters.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+![](/images/vanessap1.jpg)
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+![](/images/vanessap2.jpg)
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+![](/images/vanessap3.jpg)
+
+![](/images/vanessap4.jpg)
