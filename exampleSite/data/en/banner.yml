@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Take a look
-    link: "#services"
+    link: "#about"
