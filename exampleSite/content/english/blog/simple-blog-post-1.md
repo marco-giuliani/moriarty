@@ -4,7 +4,7 @@ date: 2021-08-30T06:52:36+00:00
 image_webp: "/images/team/vanessa.webp"
 image: "/images/team/vanessa.jpg"
 author: John Doe
-description: This is meta description
+description: 'Vanessa Giuliani Actor Scotland '
 
 ---
 At the age of 13, my family and I travelled in a motorhome around Europe for a year eventually stopping in Italy where we lived for a year. It was here where I found my love for acting and adventure; luckily the two seem to go hand in hand and I have thrown myself into both.
