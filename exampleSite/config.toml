@@ -18,10 +18,6 @@ name = "about"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
-weight = 2
-[[Languages.en.menu.main]]
 name = "portfolio"
 url = "#portfolio"
 weight = 3
@@ -29,14 +25,6 @@ weight = 3
 name = "actors"
 url = "#actor"
 weight = 4
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
@@ -53,10 +41,6 @@ name = "sur"
 url = "#about"
 weight = 1
 [[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
-[[Languages.fr.menu.main]]
 name = "portefeuille"
 url = "#portfolio"
 weight = 3
@@ -64,14 +48,6 @@ weight = 3
 name = "acteurs"
 url = "#actor"
 weight = 4
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
 [[Languages.fr.menu.main]]
 name = "contact"
 url = "#contact"
