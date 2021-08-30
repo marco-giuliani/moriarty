@@ -19,7 +19,7 @@ actor:
       link: "/blog/vanessa-giuliani/"
   - name: Timothy Dim
     image_webp: ''
-    image: ''
+    image: "/images/tim.jpg"
     designation: Tim
     content: Nice but dim
     social:
