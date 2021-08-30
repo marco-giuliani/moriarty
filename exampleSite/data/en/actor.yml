@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Timothy Spall
+    image_webp: ''
+    image: ''
+    designation: Tim
+    content: Nice but dim
+    social:
+    - icon: ti-dribbble
+      link: ''
   - name: Vanessa Giuliani
     image_webp: images/team/vanessa.webp
     image: images/team/vanessa.jpg
