@@ -18,8 +18,8 @@ portfolio:
     content: ''
     link: "/blog/vanessa-giuliani/"
   - name: Vanessa Image
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image: images/portfolio/vp3.jpg
+    image_webp: ''
     categories:
     - vanessa
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
