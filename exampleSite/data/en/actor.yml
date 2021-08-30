@@ -15,7 +15,7 @@ actor:
       link: "#"
     - icon: ti-linkedin
       link: "#"
-    - icon: ti-dribbble
+    - icon: ti-layout-media-center-alt
       link: "/blog/vanessa-giuliani/"
   - name: Timothy Dim
     image_webp: ''
