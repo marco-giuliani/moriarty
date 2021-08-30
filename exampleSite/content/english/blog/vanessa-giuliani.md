@@ -13,4 +13,10 @@ I have attended a number of classes and schools and have travelled all over Euro
 
 I love the possibility of meeting new people whilst immersing and challenging myself in new, exciting countries and characters.
 
-![Stage performance](/images/vanessap1.jpg "Vanessa image")![](/images/vanessap2.jpg)![](/images/vanessap3.jpg)![](/images/vanessap4.jpg)
+![Stage performance](/images/vanessap1.jpg "Vanessa image")
+
+![](/images/vanessap2.jpg)
+
+![](/images/vanessap3.jpg)
+
+![](/images/vanessap4.jpg)
