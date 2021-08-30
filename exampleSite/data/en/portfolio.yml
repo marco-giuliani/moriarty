@@ -4,6 +4,13 @@ portfolio:
   title: Our Actors Images
   portfolio_item:
   - name: Vanessa
+    image: images/portfolio/vp2.jpg
+    image_webp: ''
+    categories:
+    - vanessa
+    content: ''
+    link: "/blog/vanessa-giuliani/"
+  - name: Vanessa
     image: images/portfolio/vp1.jpg
     image_webp: ''
     categories:
