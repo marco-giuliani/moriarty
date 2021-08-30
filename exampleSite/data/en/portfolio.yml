@@ -14,7 +14,7 @@ portfolio:
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
     categories:
-    - design
+    - tim
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Vanessa
@@ -28,8 +28,8 @@ portfolio:
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
     categories:
-    - development
-    - design
+    - tim
+    - paul
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Vanessa
@@ -50,45 +50,44 @@ portfolio:
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
-    - development
+    - tim
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Bottol Label
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
     categories:
-    - development
-    - design
+    - tim
+    - paul
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
     categories:
-    - development
-    - design
+    - tim
+    - paul
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
     categories:
-    - development
+    - tim
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Stationary Design
     image: images/portfolio/portfolio-8.jpg
     image_webp: images/portfolio/portfolio-8.webp
     categories:
-    - development
-    - design
+    - paul
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
-    - photography
-    - design
+    - vanessa
+    - tim
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
