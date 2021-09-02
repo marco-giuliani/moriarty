@@ -1,6 +1,6 @@
 ---
 title: Tom Moriarty
-image: ''
+image: "/images/tommoriarty.jpg"
 email: email2@example.org
 social:
 - icon: ti-facebook
