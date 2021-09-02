@@ -8,5 +8,5 @@ banner:
   content: 'We do stuff so you don''t have to.  '
   button:
     enable: true
-    label: Take a look
+    label: Find out more
     link: "#about"
