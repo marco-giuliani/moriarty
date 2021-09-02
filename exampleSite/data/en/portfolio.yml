@@ -81,6 +81,7 @@ portfolio:
     image_webp: images/portfolio/portfolio-8.webp
     categories:
     - paul
+    - french
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
