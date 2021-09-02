@@ -5,7 +5,7 @@ actor:
   actor_member:
   - name: Marco Giuliani
     image_webp: ''
-    image: ''
+    image: "/images/tim.jpg"
     designation: Italian Actor
     content: ghfhfj
     social:
