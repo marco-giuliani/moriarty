@@ -3,14 +3,6 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
-  - name: Marco Giuliani
-    image_webp: ''
-    image: "/images/tim.jpg"
-    designation: Italian Actor
-    content: ghfhfj
-    social:
-    - icon: ti-signal
-      link: blog/vanessa-giuliani
   - name: Vanessa Giuliani
     image_webp: images/team/vanessa.webp
     image: images/team/vanessa.jpg
@@ -48,18 +40,11 @@ actor:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Michael Jonson
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: Marco Giuliani
+    image_webp: ''
+    image: "/images/tim.jpg"
+    designation: Italian Actor
+    content: ghfhfj
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    - icon: ti-signal
+      link: blog/vanessa-giuliani
