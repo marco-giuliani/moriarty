@@ -3,6 +3,12 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Tamar Baruch
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Vanessa Giuliani
     image_webp: images/team/vanessa.webp
     image: images/team/vanessa.jpg
