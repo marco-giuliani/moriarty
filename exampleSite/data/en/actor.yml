@@ -17,14 +17,12 @@ actor:
       link: "#"
     - icon: ti-layout-media-center-alt
       link: "/blog/vanessa-giuliani/"
-  - name: Timothy Dim
+  - name: Sarah-Beth Brown
     image_webp: ''
     image: "/images/tim.jpg"
-    designation: Tim
-    content: Nice but dim
-    social:
-    - icon: ti-dribbble
-      link: ''
+    designation: ''
+    content: ''
+    social: []
   - name: Frank Miller
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
