@@ -3,6 +3,12 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Luke Farrell
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Mick Cullen
     image_webp: ''
     image: ''
