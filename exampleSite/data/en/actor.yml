@@ -3,6 +3,12 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Paul Comrie
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: John-James Colvin
     image_webp: ''
     image: ''
