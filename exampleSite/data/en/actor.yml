@@ -3,6 +3,12 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: 'Josh Knowles '
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Cerys Hogg
     image_webp: ''
     image: ''
