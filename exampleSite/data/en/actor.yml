@@ -3,6 +3,12 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: 'Dillon McFarlane '
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: William McFadzean
     image_webp: ''
     image: ''
