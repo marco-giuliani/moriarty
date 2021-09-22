@@ -3,6 +3,12 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Caelan Martyn
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Grant MacIver
     image_webp: ''
     image: ''
