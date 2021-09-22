@@ -29,11 +29,9 @@ actor:
     designation: ''
     content: ''
     social: []
-  - name: Marco Giuliani
+  - name: Alexander Artis
     image_webp: ''
     image: "/images/tim.jpg"
-    designation: Italian Actor
-    content: ghfhfj
-    social:
-    - icon: ti-signal
-      link: blog/vanessa-giuliani
+    designation: ''
+    content: ''
+    social: []
