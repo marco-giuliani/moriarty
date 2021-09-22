@@ -3,6 +3,12 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Sanjay Lago
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: 'Josh Knowles '
     image_webp: ''
     image: ''
