@@ -3,6 +3,12 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Przemyslaw Girsa
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Michael Francis
     image_webp: ''
     image: ''
