@@ -83,7 +83,7 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://google.com
-  - name: 'Jackson Price '
+  - name: Jackson Price
     image_webp: ''
     image: "/images/jackson-price-new.jpeg"
     designation: ''
