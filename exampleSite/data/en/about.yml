@@ -4,8 +4,14 @@ about:
   title: About Us
   about_item:
   - icon: ti-ruler-pencil
-    title: We're Creative
-    content: We think outside the crisp packet, punch from all angles.
+    title: Industry Coverage
+    content: |-
+      Moriarty Management caters primarily to the TV & Film world, working towards opportunities and
+      credits that land within a certain industry standard of recognition.
+      Whilst still growing, the Agency has very high ambitions and Casting Briefs are treated with the
+      highest of respect.
+      Commercials & Theatre are also covered, depending on the personal goal of an actor. That is,
+      what they want to achieve and which area of the industry they want to specialise in.
   - icon: ti-cup
     title: We're Professional
     content: We work for you and will only have your interests at the heart of all
