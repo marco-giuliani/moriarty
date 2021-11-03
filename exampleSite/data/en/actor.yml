@@ -77,7 +77,7 @@ actor:
       link: https://google.com
   - name: Lynn Murray
     image_webp: ''
-    image: ''
+    image: "/images/lynn-murray-new.jpeg"
     designation: ''
     content: ''
     social:
