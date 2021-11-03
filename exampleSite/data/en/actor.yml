@@ -77,7 +77,7 @@ actor:
       link: https://google.com
   - name: Sasha Reid
     image_webp: ''
-    image: ''
+    image: "/images/sasha-reid-new.jpeg"
     designation: ''
     content: ''
     social:
