@@ -18,7 +18,7 @@ actor:
     content: ''
     social:
     - icon: ti-video-camera
-      link: " https://www.spotlight.com/8171-0199-9364"
+      link: https://www.spotlight.com/8171-0199-9364
   - name: Vanessa Giuliani
     image_webp: ''
     image: "/images/vanessa-giuliani-208-new.jpeg"
