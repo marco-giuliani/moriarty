@@ -6,8 +6,8 @@ actor:
   - name: Vanessa Giuliani
     image_webp: ''
     image: "/images/vanessa-giuliani-208-new.jpeg"
-    designation: Vanessa
-    content: Vanessa is the best thing since sliced bread.
+    designation: ''
+    content: ''
     social:
     - icon: ti-video-camera
       link: " https://www.spotlight.com/1818-1207-0590"
