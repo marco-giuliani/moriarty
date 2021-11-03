@@ -216,7 +216,9 @@ actor:
     image: ''
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: John-James Colvin
     image_webp: ''
     image: ''
