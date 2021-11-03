@@ -165,7 +165,7 @@ actor:
       link: https://google.com
   - name: 'Josh Knowles '
     image_webp: ''
-    image: ''
+    image: "/images/josh-knowles.jpeg"
     designation: ''
     content: ''
     social:
