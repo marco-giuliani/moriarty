@@ -253,7 +253,7 @@ actor:
       link: https://google.com
   - name: Dylan Baxendale
     image_webp: ''
-    image: ''
+    image: "/images/dylan-baxendale.jpeg"
     designation: ''
     content: ''
     social:
