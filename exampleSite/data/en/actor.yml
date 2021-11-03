@@ -42,7 +42,7 @@ actor:
     content: ''
     social:
     - icon: ti-video-camera
-      link: " https://www.spotlight.com/0517-6728-3165"
+      link: https://www.spotlight.com/0517-6728-3165
   - name: Correy Young
     image_webp: ''
     image: "/images/corey-young-new.jpeg"
