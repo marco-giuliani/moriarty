@@ -120,7 +120,9 @@ actor:
     image: ''
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Grant MacIver
     image_webp: ''
     image: ''
