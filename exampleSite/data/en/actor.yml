@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Tatiana Chiline
+    image_webp: ''
+    image: "/images/tatiana-chiline-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0853-9086-1809
   - name: Taylor Bruce
     image_webp: ''
     image: "/images/taylor-bruce-new.jpeg"
@@ -19,14 +27,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/8171-0199-9364
-  - name: Vanessa Giuliani
-    image_webp: ''
-    image: "/images/vanessa-giuliani-208-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/1818-1207-0590
   - name: Estella Wright
     image_webp: ''
     image: "/images/estella-wright.jpeg"
@@ -43,6 +43,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0517-6728-3165
+  - name: Vanessa Giuliani
+    image_webp: ''
+    image: "/images/vanessa-giuliani-208-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/1818-1207-0590
   - name: Correy Young
     image_webp: ''
     image: "/images/corey-young-new.jpeg"
@@ -59,14 +67,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1171-3421-9151
-  - name: Wahnnetta Williamson
-    image_webp: ''
-    image: "/images/wahnnetta-williamson-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/9812-4536-5826
   - name: 'Ido Steuer '
     image_webp: ''
     image: "/images/ido-steuer.jpeg"
@@ -83,6 +83,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/4134-5611-4477
+  - name: Wahnnetta Williamson
+    image_webp: ''
+    image: "/images/wahnnetta-williamson-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/9812-4536-5826
   - name: Sasha Reid
     image_webp: ''
     image: "/images/sasha-reid-new.jpeg"
@@ -131,14 +139,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/6298-9051-6476
-  - name: 'Dillon McFarlane '
-    image_webp: ''
-    image: "/images/dillon-mcfarlane-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/9814-6724-4531
   - name: William McFadzean
     image_webp: ''
     image: "/images/will-mcfadzean-new.jpeg"
@@ -147,6 +147,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/8216-0169-7880
+  - name: 'Josh Knowles '
+    image_webp: ''
+    image: "/images/josh-knowles-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/5816-4502-0059
   - name: 'Abigail McDonald '
     image_webp: ''
     image: "/images/abigail-mcdonald-new.jpeg"
@@ -163,6 +171,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0533-4508-9509
+  - name: 'Dillon McFarlane '
+    image_webp: ''
+    image: "/images/dillon-mcfarlane-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/9814-6724-4531
   - name: Grant MacIver
     image_webp: ''
     image: "/images/grant-mciver-new.jpeg"
@@ -179,22 +195,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9814-6759-5256
-  - name: Sanjay Lago
-    image_webp: ''
-    image: "/images/sanjay-lago-3-copy-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/8615-4501-2163
-  - name: 'Josh Knowles '
-    image_webp: ''
-    image: "/images/josh-knowles-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/5816-4502-0059
   - name: Cerys Hogg
     image_webp: ''
     image: "/images/cerys-hogg-new.jpeg"
@@ -219,6 +219,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/6810-8977-9452
+  - name: Sarah-Beth Brown
+    image_webp: ''
+    image: "/images/sarah-beth-brown-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/8133-8979-5763
   - name: Przemyslaw Girsa
     image_webp: ''
     image: "/images/p-man-new.jpeg"
@@ -227,6 +235,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/6576-8946-9413
+  - name: Cara Burns
+    image_webp: ''
+    image: "/images/cara-burns-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/7333-9082-4634
   - name: Michael Francis
     image_webp: ''
     image: "/images/michael-francis-new.jpeg"
@@ -235,6 +251,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/6215-7832-3663
+  - name: Valerie Andrews
+    image_webp: ''
+    image: "/images/valerie-andrewsnew.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/4375-3422-1265
   - name: Luke Farrell
     image_webp: ''
     image: "/images/luke-farrell-new.png"
@@ -243,6 +267,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/2610-1276-6657
+  - name: Sanjay Lago
+    image_webp: ''
+    image: "/images/sanjay-lago-3-copy-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/8615-4501-2163
   - name: Mick Cullen
     image_webp: ''
     image: "/images/mick-cullen-new.jpeg"
@@ -267,54 +299,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/6613-9054-2951
-  - name: Tatiana Chiline
-    image_webp: ''
-    image: "/images/tatiana-chiline-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0853-9086-1809
-  - name: Nina Cattanach
-    image_webp: ''
-    image: "/images/nina-cattanach-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/9000-1207-3512
-  - name: Cara Burns
-    image_webp: ''
-    image: "/images/cara-burns-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/7333-9082-4634
-  - name: Dylan Baxendale
-    image_webp: ''
-    image: "/images/dylan-baxendale-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0217-3492-1261
-  - name: Sarah-Beth Brown
-    image_webp: ''
-    image: "/images/sarah-beth-brown-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/8133-8979-5763
-  - name: Valerie Andrews
-    image_webp: ''
-    image: "/images/valerie-andrewsnew.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/4375-3422-1265
   - name: Alexander Artis
     image_webp: ''
     image: "/images/alexander-artis-new.jpeg"
@@ -323,3 +307,19 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/4612-6723-3735
+  - name: Nina Cattanach
+    image_webp: ''
+    image: "/images/nina-cattanach-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/9000-1207-3512
+  - name: Dylan Baxendale
+    image_webp: ''
+    image: "/images/dylan-baxendale-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0217-3492-1261
