@@ -141,7 +141,7 @@ actor:
       link: https://google.com
   - name: Grant MacIver
     image_webp: ''
-    image: ''
+    image: "/images/grant-mciver.jpeg"
     designation: ''
     content: ''
     social:
