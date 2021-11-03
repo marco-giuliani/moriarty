@@ -56,7 +56,9 @@ actor:
     image: ''
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Lynn Murray
     image_webp: ''
     image: ''
