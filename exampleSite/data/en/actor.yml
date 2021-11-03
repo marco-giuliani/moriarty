@@ -316,8 +316,8 @@ actor:
     - icon: ti-video-camera
       link: https://google.com
   - name: Valerie Andrews
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
+    image_webp: ''
+    image: "/images/valerie-andrewsnew.jpeg"
     designation: ''
     content: ''
     social:
