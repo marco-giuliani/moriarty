@@ -192,7 +192,9 @@ actor:
     image: ''
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Luke Farrell
     image_webp: ''
     image: ''
