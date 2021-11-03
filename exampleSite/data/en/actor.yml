@@ -101,7 +101,7 @@ actor:
       link: https://google.com
   - name: Olivia McIntosh
     image_webp: ''
-    image: ''
+    image: "/images/olivia-mcintosh-new.jpeg"
     designation: ''
     content: ''
     social:
