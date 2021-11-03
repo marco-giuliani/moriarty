@@ -101,7 +101,7 @@ actor:
       link: https://google.com
   - name: William McFadzean
     image_webp: ''
-    image: ''
+    image: "/images/willnewnew.jpg"
     designation: ''
     content: ''
     social:
