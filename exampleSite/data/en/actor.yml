@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Estella Wright
+    image_webp: ''
+    image: "/images/estella-wright.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Jai Sharma
     image_webp: ''
     image: "/images/jai-sharma.jpeg"
