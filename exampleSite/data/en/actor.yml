@@ -25,8 +25,8 @@ actor:
     designation: ''
     content: ''
     social:
-    - icon: ''
-      link: ''
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Ido Steuer
     image_webp: ''
     image: ''
