@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Vanessa Giuliani
+    image_webp: ''
+    image: "/images/vanessa-giuliani-208-new.jpeg"
+    designation: Vanessa
+    content: Vanessa is the best thing since sliced bread.
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Taylor Bruce
     image_webp: ''
     image: "/images/taylor-bruce-new.jpeg"
@@ -288,22 +296,6 @@ actor:
     image: "/images/dylan-baxendale-new.jpeg"
     designation: ''
     content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://google.com
-  - name: Tamar Baruch
-    image_webp: ''
-    image: ''
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://google.com
-  - name: Vanessa Giuliani
-    image_webp: ''
-    image: "/images/vanessa-giuliani-208-new.jpeg"
-    designation: Vanessa
-    content: Vanessa is the best thing since sliced bread.
     social:
     - icon: ti-video-camera
       link: https://google.com
