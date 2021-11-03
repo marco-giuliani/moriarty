@@ -200,7 +200,9 @@ actor:
     image: ''
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Mick Cullen
     image_webp: ''
     image: ''
