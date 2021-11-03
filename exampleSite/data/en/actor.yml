@@ -296,4 +296,6 @@ actor:
     image: "/images/tim.jpg"
     designation: ''
     content: ''
-    social: []
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
