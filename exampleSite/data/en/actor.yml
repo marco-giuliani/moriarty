@@ -72,7 +72,9 @@ actor:
     image: ''
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Olivia McIntosh
     image_webp: ''
     image: ''
