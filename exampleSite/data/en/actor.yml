@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Nadine Walsh
+    image_webp: ''
+    image: "/images/nadine-walsh-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Estella Wright
     image_webp: ''
     image: "/images/estella-wright.jpeg"
