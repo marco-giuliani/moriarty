@@ -273,14 +273,8 @@ actor:
     designation: Vanessa
     content: Vanessa is the best thing since sliced bread.
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-layout-media-center-alt
-      link: "/blog/vanessa-giuliani/"
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Sarah-Beth Brown
     image_webp: ''
     image: "/images/tim.jpg"
