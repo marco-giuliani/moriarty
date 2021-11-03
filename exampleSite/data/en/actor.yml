@@ -69,7 +69,7 @@ actor:
       link: https://google.com
   - name: Jackson Price
     image_webp: ''
-    image: "/images/jackson-price.jpeg"
+    image: "/images/jackson-price-new.jpeg"
     designation: ''
     content: ''
     social:
