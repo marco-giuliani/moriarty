@@ -269,7 +269,7 @@ actor:
       link: https://google.com
   - name: Nina Cattanach
     image_webp: ''
-    image: ''
+    image: "/images/nina-cattanach-new.jpeg"
     designation: ''
     content: ''
     social:
