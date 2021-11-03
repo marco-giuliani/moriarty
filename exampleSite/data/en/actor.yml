@@ -237,7 +237,7 @@ actor:
       link: https://google.com
   - name: John-James Colvin
     image_webp: ''
-    image: ''
+    image: "/images/john-james-colvin.jpeg"
     designation: ''
     content: ''
     social:
