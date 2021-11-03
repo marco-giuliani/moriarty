@@ -117,7 +117,7 @@ actor:
       link: https://google.com
   - name: Caelan Martyn
     image_webp: ''
-    image: ''
+    image: "/images/caelan-martyn.jpeg"
     designation: ''
     content: ''
     social:
