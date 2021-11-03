@@ -288,7 +288,9 @@ actor:
     image: images/team/team-2.jpg
     designation: ''
     content: ''
-    social: []
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Alexander Artis
     image_webp: ''
     image: "/images/tim.jpg"
