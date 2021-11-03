@@ -4,10 +4,10 @@ actor:
   title: Our Actors
   actor_member:
   - name: Correy Young
-    image_webp: images/team/vanessa.webp
-    image: images/team/vanessa.jpg
-    designation: Blah
-    content: Blah Blah
+    image_webp: ''
+    image: "/images/corey-young.jpeg"
+    designation: ''
+    content: ''
     social:
     - icon: ti-video-camera
       link: https://google.com
