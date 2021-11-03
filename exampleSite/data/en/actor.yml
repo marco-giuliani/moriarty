@@ -187,9 +187,9 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://google.com
-  - name: Bogna Groniecka
+  - name: Lily Just
     image_webp: ''
-    image: ''
+    image: "/images/lily-just.jpeg"
     designation: ''
     content: ''
     social:
