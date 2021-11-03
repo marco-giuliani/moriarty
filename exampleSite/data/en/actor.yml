@@ -37,7 +37,7 @@ actor:
       link: https://google.com
   - name: Correy Young
     image_webp: ''
-    image: "/images/corey-young.jpeg"
+    image: "/images/corey-young-new.jpeg"
     designation: ''
     content: ''
     social:
