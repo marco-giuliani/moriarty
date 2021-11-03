@@ -45,7 +45,7 @@ actor:
       link: https://google.com
   - name: Ido Steuer
     image_webp: ''
-    image: ''
+    image: "/images/ido-steuer.jpeg"
     designation: ''
     content: ''
     social:
