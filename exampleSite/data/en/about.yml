@@ -3,14 +3,6 @@ about:
   enable: true
   title: About Us
   about_item:
-  - icon: ti-ruler-pencil
-    title: Industry Coverage
-    content: |-
-      Moriarty Management caters primarily to the TV & Film world, working towards opportunities and credits that land within a certain industry standard of recognition.
-
-      Whilst still growing, the Agency has very high ambitions and Casting Briefs are treated with the highest of respect.
-
-      Commercials & Theatre are also covered, depending on the personal goal of an actor. That is, what they want to achieve and which area of the industry they want to specialise in.
   - icon: ti-cup
     title: About The Agency
     content: |-
@@ -21,6 +13,14 @@ about:
       We believe in hustle and putting the years in. Work smart, work hard and don’t forget you also have to live your life. If you are not balancing then this industry can overwhelm you.
 
       If our philosophies align, then consider getting in touch.
+  - icon: ti-ruler-pencil
+    title: Industry Coverage
+    content: |-
+      Moriarty Management caters primarily to the TV & Film world, working towards opportunities and credits that land within a certain industry standard of recognition.
+
+      Whilst still growing, the Agency has very high ambitions and Casting Briefs are treated with the highest of respect.
+
+      Commercials & Theatre are also covered, depending on the personal goal of an actor. That is, what they want to achieve and which area of the industry they want to specialise in.
   - icon: ti-thought
     title: Agency Expectation
     content: "The talent that exists in our industry is vast and unending. In a sea
