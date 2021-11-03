@@ -109,7 +109,7 @@ actor:
       link: https://google.com
   - name: 'Abigail McDonald '
     image_webp: ''
-    image: ''
+    image: "/images/abigail-mcdonald.jpeg"
     designation: ''
     content: ''
     social:
