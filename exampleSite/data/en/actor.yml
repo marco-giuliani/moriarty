@@ -221,7 +221,7 @@ actor:
       link: https://google.com
   - name: Mick Cullen
     image_webp: ''
-    image: ''
+    image: "/images/mick-cullen-new.jpeg"
     designation: ''
     content: ''
     social:
