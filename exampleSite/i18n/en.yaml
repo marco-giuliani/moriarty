@@ -1,10 +1,6 @@
 ---
-- id: ''
-  translation: ''
 - id: readMore
   translation: Read more
-- id: ''
-  translation: ''
 - id: share
   translation: Share
 - id: aboutAuthor
@@ -27,5 +23,9 @@
   translation: Blog
 - id: contact
   translation: Contact
+- id: ''
+  translation: ''
+- id: ''
+  translation: ''
 - id: tropicaldo
   translation: Tropicaldo
