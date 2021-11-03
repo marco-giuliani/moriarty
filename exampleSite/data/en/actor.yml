@@ -284,8 +284,8 @@ actor:
     - icon: ti-video-camera
       link: https://google.com
   - name: Vanessa Giuliani
-    image_webp: images/team/vanessa.webp
-    image: images/team/vanessa.jpg
+    image_webp: ''
+    image: "/images/vanessa-giuliani-208-new.jpeg"
     designation: Vanessa
     content: Vanessa is the best thing since sliced bread.
     social:
