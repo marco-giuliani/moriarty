@@ -13,7 +13,7 @@ actor:
       link: https://google.com
   - name: Rohanne Woods
     image_webp: ''
-    image: ''
+    image: "/images/rohanne-woods.jpeg"
     designation: ''
     content: ''
     social:
