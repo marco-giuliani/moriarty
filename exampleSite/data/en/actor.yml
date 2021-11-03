@@ -157,7 +157,7 @@ actor:
       link: https://google.com
   - name: Cerys Hogg
     image_webp: ''
-    image: ''
+    image: "/images/cerys-hogg.jpeg"
     designation: ''
     content: ''
     social:
