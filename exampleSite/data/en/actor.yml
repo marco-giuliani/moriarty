@@ -165,7 +165,7 @@ actor:
       link: https://google.com
   - name: Austin Hayden
     image_webp: ''
-    image: ''
+    image: "/images/austin-hayden.jpeg"
     designation: ''
     content: ''
     social:
