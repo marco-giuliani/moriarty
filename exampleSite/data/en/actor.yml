@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Jackson Price
+    image_webp: ''
+    image: "/images/jackson-price-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/7818-8948-7803
   - name: Taylor Bruce
     image_webp: ''
     image: "/images/taylor-bruce-new.jpeg"
