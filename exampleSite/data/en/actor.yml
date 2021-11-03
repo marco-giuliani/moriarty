@@ -229,7 +229,7 @@ actor:
       link: https://google.com
   - name: Paul Comrie
     image_webp: ''
-    image: ''
+    image: "/images/paul-comrie-new.jpeg"
     designation: ''
     content: ''
     social:
