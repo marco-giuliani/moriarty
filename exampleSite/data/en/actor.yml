@@ -112,7 +112,9 @@ actor:
     image: ''
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Caelan Martyn
     image_webp: ''
     image: ''
