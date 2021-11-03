@@ -205,7 +205,7 @@ actor:
       link: https://google.com
   - name: Lily Just
     image_webp: ''
-    image: "/images/lily-just.jpeg"
+    image: "/images/lily-just-new.jpeg"
     designation: ''
     content: ''
     social:
