@@ -245,7 +245,7 @@ actor:
       link: https://google.com
   - name: Tatiana Chiline
     image_webp: ''
-    image: ''
+    image: "/images/tatiana-chiline-new.jpeg"
     designation: ''
     content: ''
     social:
