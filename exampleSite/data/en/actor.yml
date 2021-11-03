@@ -93,7 +93,7 @@ actor:
       link: https://google.com
   - name: 'Dillon McFarlane '
     image_webp: ''
-    image: ''
+    image: "/images/dillon-mcfarlane.jpeg"
     designation: ''
     content: ''
     social:
