@@ -20,7 +20,9 @@ actor:
     image: ''
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ''
+      link: ''
   - name: Ido Steuer
     image_webp: ''
     image: ''
