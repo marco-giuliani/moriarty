@@ -3,14 +3,6 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
-  - name: Vanessa Giuliani
-    image_webp: ''
-    image: "/images/vanessa-giuliani-208-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/1818-1207-0590
   - name: Taylor Bruce
     image_webp: ''
     image: "/images/taylor-bruce-new.jpeg"
@@ -27,6 +19,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: " https://www.spotlight.com/8171-0199-9364"
+  - name: Vanessa Giuliani
+    image_webp: ''
+    image: "/images/vanessa-giuliani-208-new.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/1818-1207-0590
   - name: Estella Wright
     image_webp: ''
     image: "/images/estella-wright.jpeg"
@@ -82,7 +82,7 @@ actor:
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://google.com
+      link: https://www.spotlight.com/4134-5611-4477
   - name: Sasha Reid
     image_webp: ''
     image: "/images/sasha-reid-new.jpeg"
