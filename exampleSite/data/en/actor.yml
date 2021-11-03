@@ -229,7 +229,7 @@ actor:
       link: https://google.com
   - name: Luke Farrell
     image_webp: ''
-    image: ''
+    image: "/images/luke-farrell-new.png"
     designation: ''
     content: ''
     social:
