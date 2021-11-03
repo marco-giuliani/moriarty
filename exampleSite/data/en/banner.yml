@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: ''
-  bg_image: "/images/tom-website.png"
+  bg_image: "/images/tom-website-new.png"
   icon: ''
   title: Moriarty Management
   content: ''
