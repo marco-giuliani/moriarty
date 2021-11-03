@@ -221,7 +221,7 @@ actor:
       link: https://google.com
   - name: Michael Francis
     image_webp: ''
-    image: ''
+    image: "/images/michael-francis-new.jpeg"
     designation: ''
     content: ''
     social:
