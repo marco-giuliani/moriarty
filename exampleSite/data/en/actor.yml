@@ -59,7 +59,7 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://google.com
-  - name: Ido Steuer
+  - name: 'Ido Steuer '
     image_webp: ''
     image: "/images/ido-steuer.jpeg"
     designation: ''
