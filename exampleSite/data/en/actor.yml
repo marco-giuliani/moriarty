@@ -264,7 +264,9 @@ actor:
     image: ''
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: https://google.com
   - name: Vanessa Giuliani
     image_webp: images/team/vanessa.webp
     image: images/team/vanessa.jpg
