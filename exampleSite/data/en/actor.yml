@@ -53,7 +53,7 @@ actor:
       link: https://google.com
   - name: Frank Richardson
     image_webp: ''
-    image: ''
+    image: "/images/frank-richardson.jpeg"
     designation: ''
     content: ''
     social:
