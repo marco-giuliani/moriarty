@@ -101,7 +101,7 @@ actor:
       link: https://google.com
   - name: Rebecca McIlroy
     image_webp: ''
-    image: ''
+    image: "/images/rebecca-mcilroy-new.jpeg"
     designation: ''
     content: ''
     social:
