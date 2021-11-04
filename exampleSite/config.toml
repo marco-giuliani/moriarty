@@ -49,6 +49,7 @@ author = "Tropicaldo"
 description = "Moriarty Management client site"
 google_analytics_id = ""
 isMultiLingual = false
+showblog = false
 logo = "images/mm_small_logo.jpg"
 post_share = true
 [params.cookies]
