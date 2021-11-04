@@ -1,5 +1,5 @@
 baseURL = "https://moriarty-management.netlify.app"
-disableLanguages = ["fr-fr"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
