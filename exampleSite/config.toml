@@ -6,7 +6,9 @@ summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
 title = "Moriarty Management"
-IsMultiLingual = false
+[params.IsMultiLingual]
+enable = false
+IsMultiLingual = "false"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Tropicaldo](https://tropicaldo.com) & Developed by [Marco](https://tropicaldo.com)"
