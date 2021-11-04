@@ -48,7 +48,7 @@ weight = 7
 author = "Tropicaldo"
 description = "Moriarty Management client site"
 google_analytics_id = ""
-isMultiLingual = true
+isMultiLingual = false
 logo = "images/mm_small_logo.jpg"
 post_share = true
 [params.cookies]
