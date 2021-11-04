@@ -19,8 +19,6 @@
   translation: Actor
 - id: pricing
   translation: Pricing
-- id: blog
-  translation: Blog
 - id: contact
   translation: Contact
 - id: tropicaldo
