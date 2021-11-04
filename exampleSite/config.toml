@@ -1,7 +1,6 @@
 baseURL = "https://moriarty-management.netlify.app"
 disableLanguages = []
 disqusShortname = ""
-isMultiLingual = false
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
@@ -51,6 +50,7 @@ description = "Moriarty Management client site"
 google_analytics_id = ""
 logo = "images/mm_small_logo.jpg"
 post_share = true
+isMultiLingual = false
 [params.cookies]
 enable = false
 expire_days = 2
