@@ -83,30 +83,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/7818-8948-7803
-  - name: Corey Young
-    image_webp: ''
-    image: "/images/corey-young-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0099-1278-8112
-  - name: 'Ido Steuer '
-    image_webp: ''
-    image: "/images/ido-steuer-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/4773-5615-0370
-  - name: Przemyslaw Girsa
-    image_webp: ''
-    image: "/images/p-man-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/6576-8946-9413
   - name: Olivia McIntosh
     image_webp: ''
     image: "/images/olivia-mcintosh-25.jpeg"
@@ -115,22 +91,22 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/3212-0195-4841
-  - name: Frank Richardson
+  - name: Przemyslaw Girsa
     image_webp: ''
-    image: "/images/frank-richardson-25.jpeg"
+    image: "/images/p-man-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/4134-5611-4477
-  - name: Dylan Baxendale
+      link: https://www.spotlight.com/6576-8946-9413
+  - name: Corey Young
     image_webp: ''
-    image: "/images/dylan-baxendale-25.jpeg"
+    image: "/images/corey-young-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/0217-3492-1261
+      link: https://www.spotlight.com/0099-1278-8112
   - name: Wahnnetta Williamson
     image_webp: ''
     image: "/images/wahnnetta-williamson-25.jpeg"
@@ -139,6 +115,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9812-4536-5826
+  - name: 'Ido Steuer '
+    image_webp: ''
+    image: "/images/ido-steuer-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/4773-5615-0370
   - name: Lily Just
     image_webp: ''
     image: "/images/lily-just-25.jpeg"
@@ -147,6 +131,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/6810-8977-9452
+  - name: Frank Richardson
+    image_webp: ''
+    image: "/images/frank-richardson-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/4134-5611-4477
   - name: Sasha Reid
     image_webp: ''
     image: "/images/sasha-reid-25.jpeg"
@@ -155,6 +147,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1416-5641-6522
+  - name: Dylan Baxendale
+    image_webp: ''
+    image: "/images/dylan-baxendale-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0217-3492-1261
   - name: Taylor Bruce
     image_webp: ''
     image: "/images/taylor-bruce-25.jpeg"
