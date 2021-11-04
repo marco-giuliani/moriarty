@@ -49,9 +49,10 @@ author = "Tropicaldo"
 description = "Moriarty Management client site"
 google_analytics_id = ""
 isMultiLingual = false
-showblog = false
 logo = "images/mm_small_logo.jpg"
 post_share = true
+showblog = false
+social = []
 [params.cookies]
 enable = false
 expire_days = 2
@@ -88,21 +89,3 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = false
 preloader = "images/logo.png"
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
