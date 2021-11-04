@@ -5,7 +5,7 @@ actor:
   actor_member:
   - name: Tatiana Chiline
     image_webp: ''
-    image: "/images/tatiana-chiline-new-25.jpeg"
+    image: "/images/tatiana-chiline-25.jpeg"
     designation: ''
     content: ''
     social:
