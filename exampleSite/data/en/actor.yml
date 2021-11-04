@@ -11,14 +11,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9814-6759-5256
-  - name: Tatiana Chiline
-    image_webp: ''
-    image: "/images/tatiana-chiline-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0853-9086-1809
   - name: Caelan Martyn
     image_webp: ''
     image: "/images/caelan-martyn-25.jpeg"
@@ -27,6 +19,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0533-4508-9509
+  - name: Tatiana Chiline
+    image_webp: ''
+    image: "/images/tatiana-chiline-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0853-9086-1809
   - name: Amber Murray
     image_webp: ''
     image: "/images/amber-murray-25.jpeg"
