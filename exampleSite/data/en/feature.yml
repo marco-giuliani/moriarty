@@ -1,7 +1,7 @@
 ---
 feature:
   enable: true
-  image: images/tom-photo-1028-685.jpeg
+  image: images/tom-feature-photo.jpeg
   image_webp: ''
   title: About Tom
   content: |-
