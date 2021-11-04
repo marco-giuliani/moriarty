@@ -1,4 +1,6 @@
 ---
+- id: blog
+  translation: Blog
 - id: readMore
   translation: Read more
 - id: share
