@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Adrianna Liu
+    image_webp: ''
+    image: "/images/adrianna-liu-website-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/9814-6759-5256
   - name: Tatiana Chiline
     image_webp: ''
     image: "/images/tatiana-chiline-25.jpeg"
@@ -11,14 +19,22 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0853-9086-1809
-  - name: Taylor Bruce
+  - name: Caelan Martyn
     image_webp: ''
-    image: "/images/taylor-bruce-25.jpeg"
+    image: "/images/caelan-martyn-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/2455-9055-1531
+      link: https://www.spotlight.com/0533-4508-9509
+  - name: Amber Murray
+    image_webp: ''
+    image: "/images/amber-murray-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/4410-1207-8593
   - name: Nadine Walsh
     image_webp: ''
     image: "/images/nadine-walsh-25.jpeg"
@@ -51,6 +67,22 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1818-1207-0590
+  - name: William McFadzean
+    image_webp: ''
+    image: "/images/will-mcfadzean-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/8216-0169-7880
+  - name: Jackson Price
+    image_webp: ''
+    image: "/images/jackson-price-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/7818-8948-7803
   - name: Corey Young
     image_webp: ''
     image: "/images/corey-young-25.jpeg"
@@ -59,14 +91,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0099-1278-8112
-  - name: Rohanne Woods
-    image_webp: ''
-    image: "/images/rohanne-woods-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/1171-3421-9151
   - name: 'Ido Steuer '
     image_webp: ''
     image: "/images/ido-steuer-25.jpeg"
@@ -75,6 +99,22 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/4773-5615-0370
+  - name: Przemyslaw Girsa
+    image_webp: ''
+    image: "/images/p-man-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/6576-8946-9413
+  - name: Olivia McIntosh
+    image_webp: ''
+    image: "/images/olivia-mcintosh-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/3212-0195-4841
   - name: Frank Richardson
     image_webp: ''
     image: "/images/frank-richardson-25.jpeg"
@@ -99,6 +139,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9812-4536-5826
+  - name: Lily Just
+    image_webp: ''
+    image: "/images/lily-just-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/6810-8977-9452
   - name: Sasha Reid
     image_webp: ''
     image: "/images/sasha-reid-25.jpeg"
@@ -107,54 +155,22 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1416-5641-6522
-  - name: Jackson Price
+  - name: Taylor Bruce
     image_webp: ''
-    image: "/images/jackson-price-25.jpeg"
+    image: "/images/taylor-bruce-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/7818-8948-7803
-  - name: Lynn Murray
+      link: https://www.spotlight.com/2455-9055-1531
+  - name: Sarah-Beth Brown
     image_webp: ''
-    image: "/images/lynn-murray-25.jpeg"
+    image: "/images/sarah-beth-brown-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/2755-3421-8950
-  - name: Amber Murray
-    image_webp: ''
-    image: "/images/amber-murray-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/4410-1207-8593
-  - name: Olivia McIntosh
-    image_webp: ''
-    image: "/images/olivia-mcintosh-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/3212-0195-4841
-  - name: Rebecca McIlroy
-    image_webp: ''
-    image: "/images/rebecca-mcilroy-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/6298-9051-6476
-  - name: William McFadzean
-    image_webp: ''
-    image: "/images/will-mcfadzean-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/8216-0169-7880
+      link: https://www.spotlight.com/8133-8979-5763
   - name: 'Josh Knowles '
     image_webp: ''
     image: "/images/josh-knowles-25.jpeg"
@@ -171,14 +187,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9117-1200-3510
-  - name: Caelan Martyn
+  - name: Rebecca McIlroy
     image_webp: ''
-    image: "/images/caelan-martyn-25.jpeg"
+    image: "/images/rebecca-mcilroy-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/0533-4508-9509
+      link: https://www.spotlight.com/6298-9051-6476
   - name: 'Dillon McFarlane '
     image_webp: ''
     image: "/images/dillon-mcfarlane-25.jpeg"
@@ -187,6 +203,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9814-6724-4531
+  - name: Lynn Murray
+    image_webp: ''
+    image: "/images/lynn-murray-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/2755-3421-8950
   - name: Grant MacIver
     image_webp: ''
     image: "/images/grant-mciver-25.jpeg"
@@ -195,14 +219,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9858-5610-9988
-  - name: Adrianna Liu
-    image_webp: ''
-    image: "/images/adrianna-liu-website-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/9814-6759-5256
   - name: Cerys Hogg
     image_webp: ''
     image: "/images/cerys-hogg-25.jpeg"
@@ -219,30 +235,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/5497-9053-9086
-  - name: Lily Just
-    image_webp: ''
-    image: "/images/lily-just-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/6810-8977-9452
-  - name: Sarah-Beth Brown
-    image_webp: ''
-    image: "/images/sarah-beth-brown-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/8133-8979-5763
-  - name: Przemyslaw Girsa
-    image_webp: ''
-    image: "/images/p-man-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/6576-8946-9413
   - name: Cara Burns
     image_webp: ''
     image: "/images/cara-burns-25.jpeg"
@@ -323,3 +315,11 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9000-1207-3512
+  - name: Rohanne Woods
+    image_webp: ''
+    image: "/images/rohanne-woods-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/1171-3421-9151
