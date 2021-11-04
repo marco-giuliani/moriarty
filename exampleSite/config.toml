@@ -1,7 +1,7 @@
 baseURL = "https://moriarty-management.netlify.app"
 disableLanguages = []
 disqusShortname = ""
-isMultiLingual = true
+isMultiLingual = false
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
