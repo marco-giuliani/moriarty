@@ -83,6 +83,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/4134-5611-4477
+  - name: Dylan Baxendale
+    image_webp: ''
+    image: "/images/dylan-baxendale-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0217-3492-1261
   - name: Wahnnetta Williamson
     image_webp: ''
     image: "/images/wahnnetta-williamson-25.jpeg"
@@ -315,11 +323,3 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9000-1207-3512
-  - name: Dylan Baxendale
-    image_webp: ''
-    image: "/images/dylan-baxendale-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0217-3492-1261
