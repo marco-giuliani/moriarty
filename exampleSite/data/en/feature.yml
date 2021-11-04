@@ -1,20 +1,13 @@
 ---
 feature:
-  enable: false
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
-  title: We’re An Actor Management Agency.
-  content: This is where we tell you what we do that is so magic!
-  feature_item:
-  - title: Promote your talents
-    icon: ti-world
-    content: Let us talk to everyone about you
-  - title: Tweak your skills to match roles
-    icon: ti-panel
-    content: We will help you target a specific role
-  - title: 'Watch you grow '
-    icon: ti-stats-up
-    content: When your career takes off, we are there with you
-  - title: Shout from the rooftops
-    icon: ti-announcement
-    content: We will keep you updated with all the latest roles
+  enable: true
+  image: images/tom-website-photo.jpg
+  image_webp: ''
+  title: About Tom
+  content: |-
+    Tom Moriarty brings an eclectic and diverse set of skills to any industry situation.
+
+    Fearless in his belief for his Actors, his core motivation is simply betterment for all. If one wins, we all win.
+
+    It is this philosophy that has taken Tom from Magician, to Musician, to Agent and everything in between, leaving him in a place of strength and unwavering belief: that success can be achieved, if we hustle right and just do not give up.
+  feature_item: []
