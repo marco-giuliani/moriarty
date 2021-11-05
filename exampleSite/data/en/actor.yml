@@ -35,14 +35,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/4410-1207-8593
-  - name: Nadine Walsh
+  - name: Tamar Baruch
     image_webp: ''
-    image: "/images/nadine-walsh-25.jpeg"
+    image: "/images/tamar-25.jpg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/8171-0199-9364
+      link: " https://www.spotlight.com/0459-1208-8565"
   - name: 'Estella Wright '
     image_webp: ''
     image: "/images/estella-wright-25.jpeg"
@@ -67,22 +67,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1818-1207-0590
-  - name: William McFadzean
-    image_webp: ''
-    image: "/images/will-mcfadzean-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/8216-0169-7880
-  - name: Tamar Baruch
-    image_webp: ''
-    image: "/images/tamar-25.jpg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: " https://www.spotlight.com/0459-1208-8565"
   - name: Jackson Price
     image_webp: ''
     image: "/images/jackson-price-25.jpeg"
@@ -91,6 +75,22 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/7818-8948-7803
+  - name: Nadine Walsh
+    image_webp: ''
+    image: "/images/nadine-walsh-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/8171-0199-9364
+  - name: William McFadzean
+    image_webp: ''
+    image: "/images/will-mcfadzean-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/8216-0169-7880
   - name: Olivia McIntosh
     image_webp: ''
     image: "/images/olivia-mcintosh-25.jpeg"
