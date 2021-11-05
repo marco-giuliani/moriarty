@@ -43,22 +43,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: " https://www.spotlight.com/0459-1208-8565"
-  - name: 'Estella Wright '
-    image_webp: ''
-    image: "/images/estella-wright-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0818-0190-9714
-  - name: 'Jai Sharma '
-    image_webp: ''
-    image: "/images/jai-sharma-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0517-6728-3165
   - name: Vanessa Giuliani
     image_webp: ''
     image: "/images/vanessa-giuliani-208-25.jpeg"
@@ -67,6 +51,22 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1818-1207-0590
+  - name: 'Jai Sharma '
+    image_webp: ''
+    image: "/images/jai-sharma-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0517-6728-3165
+  - name: 'Estella Wright '
+    image_webp: ''
+    image: "/images/estella-wright-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0818-0190-9714
   - name: Jackson Price
     image_webp: ''
     image: "/images/jackson-price-25.jpeg"
