@@ -5,7 +5,7 @@ actor:
   actor_member:
   - name: Tamar Baruch
     image_webp: ''
-    image: ''
+    image: "/images/tamar-25.jpg"
     designation: ''
     content: ''
     social:
