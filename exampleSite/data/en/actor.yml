@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Tamar Baruch
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: " https://www.spotlight.com/0459-1208-8565"
   - name: Adrianna Liu
     image_webp: ''
     image: "/images/adrianna-liu-website-25.jpeg"
