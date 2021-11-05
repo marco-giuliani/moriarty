@@ -19,14 +19,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0533-4508-9509
-  - name: Tamar Baruch
+  - name: Tatiana Chiline
     image_webp: ''
-    image: "/images/tamar-25.jpg"
+    image: "/images/tatiana-chiline-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: " https://www.spotlight.com/0459-1208-8565"
+      link: https://www.spotlight.com/0853-9086-1809
   - name: Amber Murray
     image_webp: ''
     image: "/images/amber-murray-25.jpeg"
@@ -75,14 +75,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/8216-0169-7880
-  - name: Tatiana Chiline
+  - name: Tamar Baruch
     image_webp: ''
-    image: "/images/tatiana-chiline-25.jpeg"
+    image: "/images/tamar-25.jpg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/0853-9086-1809
+      link: " https://www.spotlight.com/0459-1208-8565"
   - name: Jackson Price
     image_webp: ''
     image: "/images/jackson-price-25.jpeg"
