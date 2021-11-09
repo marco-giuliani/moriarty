@@ -99,14 +99,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/6576-8946-9413
-  - name: Corey Young
+  - name: Dylan Baxendale
     image_webp: ''
-    image: "/images/corey-young-25.jpeg"
+    image: "/images/dylan-baxendale-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/0099-1278-8112
+      link: https://www.spotlight.com/0217-3492-1261
   - name: Wahnnetta Williamson
     image_webp: ''
     image: "/images/wahnnetta-williamson-25.jpeg"
@@ -147,14 +147,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1416-5641-6522
-  - name: Dylan Baxendale
+  - name: Corey Young
     image_webp: ''
-    image: "/images/dylan-baxendale-25.jpeg"
+    image: "/images/corey-young-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/0217-3492-1261
+      link: https://www.spotlight.com/0099-1278-8112
   - name: Taylor Bruce
     image_webp: ''
     image: "/images/taylor-bruce-25.jpeg"
