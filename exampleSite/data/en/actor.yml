@@ -35,14 +35,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/4410-1207-8593
-  - name: Tamar Baruch
+  - name: William McFadzean
     image_webp: ''
-    image: "/images/tamar.jpg"
+    image: "/images/will-mcfadzean-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: " https://www.spotlight.com/0459-1208-8565"
+      link: https://www.spotlight.com/8216-0169-7880
   - name: Vanessa Giuliani
     image_webp: ''
     image: "/images/vanessa-giuliani-208-25.jpeg"
@@ -83,14 +83,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/8171-0199-9364
-  - name: William McFadzean
-    image_webp: ''
-    image: "/images/will-mcfadzean-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/8216-0169-7880
   - name: Olivia McIntosh
     image_webp: ''
     image: "/images/olivia-mcintosh-25.jpeg"
@@ -211,6 +203,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9814-6724-4531
+  - name: Tamar Baruch
+    image_webp: ''
+    image: "/images/tamar.jpg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0459-1208-8565
   - name: Lynn Murray
     image_webp: ''
     image: "/images/lynn-murray-25.jpeg"
