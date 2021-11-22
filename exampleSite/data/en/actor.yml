@@ -27,6 +27,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0853-9086-1809
+  - name: Tamar Baruch
+    image_webp: ''
+    image: "/images/tamarnew.jpg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0459-1208-8565
   - name: Amber Murray
     image_webp: ''
     image: "/images/amber-murray-25.jpeg"
@@ -203,14 +211,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9814-6724-4531
-  - name: Tamar Baruch
-    image_webp: ''
-    image: "/images/tamarnew.jpg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0459-1208-8565
   - name: Lynn Murray
     image_webp: ''
     image: "/images/lynn-murray-25.jpeg"
