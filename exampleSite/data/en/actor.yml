@@ -123,6 +123,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0217-3492-1261
+  - name: John-James Colvin
+    image_webp: ''
+    image: "/images/john-james-colvin-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/6613-9054-2951
   - name: Wahnnetta Williamson
     image_webp: ''
     image: "/images/wahnnetta-williamson-25.jpeg"
@@ -195,6 +203,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9117-1200-3510
+  - name: Paul Comrie
+    image_webp: ''
+    image: "/images/paul-comrie-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/4411-3499-3752
   - name: Rebecca McIlroy
     image_webp: ''
     image: "/images/rebecca-mcilroy-25.jpeg"
@@ -291,22 +307,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/2058-8941-4638
-  - name: Paul Comrie
-    image_webp: ''
-    image: "/images/paul-comrie-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/4411-3499-3752
-  - name: John-James Colvin
-    image_webp: ''
-    image: "/images/john-james-colvin-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/6613-9054-2951
   - name: Alexander Artis
     image_webp: ''
     image: "/images/alexander-artis-25.jpeg"
