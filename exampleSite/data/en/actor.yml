@@ -27,14 +27,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0853-9086-1809
-  - name: William McFadzean
+  - name: Amber Murray
     image_webp: ''
-    image: "/images/will-mcfadzean-25.jpeg"
+    image: "/images/amber-murray-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/8216-0169-7880
+      link: https://www.spotlight.com/4410-1207-8593
   - name: Tamar Baruch
     image_webp: ''
     image: "/images/tamarnew.jpg"
@@ -75,14 +75,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0517-6728-3165
-  - name: Amber Murray
+  - name: William McFadzean
     image_webp: ''
-    image: "/images/amber-murray-25.jpeg"
+    image: "/images/will-mcfadzean-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/4410-1207-8593
+      link: https://www.spotlight.com/8216-0169-7880
   - name: Jackson Price
     image_webp: ''
     image: "/images/jackson-price-25.jpeg"
