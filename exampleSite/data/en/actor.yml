@@ -35,14 +35,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0459-1208-8565
-  - name: Amber Murray
-    image_webp: ''
-    image: "/images/amber-murray-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/4410-1207-8593
   - name: William McFadzean
     image_webp: ''
     image: "/images/will-mcfadzean-25.jpeg"
@@ -75,6 +67,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0818-0190-9714
+  - name: Amber Murray
+    image_webp: ''
+    image: "/images/amber-murray-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/4410-1207-8593
   - name: Jackson Price
     image_webp: ''
     image: "/images/jackson-price-25.jpeg"
@@ -125,7 +125,7 @@ actor:
       link: https://www.spotlight.com/9812-4536-5826
   - name: 'Ido Steuer '
     image_webp: ''
-    image: "/images/ido-steuer-25.jpeg"
+    image: "/images/idonew.jpg"
     designation: ''
     content: ''
     social:
