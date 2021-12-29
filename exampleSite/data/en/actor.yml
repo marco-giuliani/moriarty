@@ -235,14 +235,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/2755-3421-8950
-  - name: Grant MacIver
-    image_webp: ''
-    image: "/images/grant-mciver-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/9858-5610-9988
   - name: Cerys Hogg
     image_webp: ''
     image: "/images/cerys-hogg-25.jpeg"
