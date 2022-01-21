@@ -131,14 +131,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/6613-9054-2951
-  - name: Wahnnetta Williamson
-    image_webp: ''
-    image: "/images/wahnnetta-williamson-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/9812-4536-5826
   - name: Lily Just
     image_webp: ''
     image: "/images/lily-just-25.jpeg"
