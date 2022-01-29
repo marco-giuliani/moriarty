@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Tamar Baruch
+    image_webp: ''
+    image: "/images/tamarnew.jpg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0459-1208-8565
   - name: Duncan Hodgkinson
     image_webp: ''
     image: "/images/duncan-hodgkinson-crop.jpeg"
@@ -11,6 +19,22 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/2771-0160-3296
+  - name: 'Ido Steuer '
+    image_webp: ''
+    image: "/images/idonew.jpg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/4773-5615-0370
+  - name: 'Estella Wright '
+    image_webp: ''
+    image: "/images/estellanew.jpg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0818-0190-9714
   - name: Adrianna Liu
     image_webp: ''
     image: "/images/adrianna-liu-new-crop.jpeg"
@@ -43,30 +67,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/4410-1207-8593
-  - name: Tamar Baruch
-    image_webp: ''
-    image: "/images/tamarnew.jpg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0459-1208-8565
-  - name: 'Estella Wright '
-    image_webp: ''
-    image: "/images/estellanew.jpg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0818-0190-9714
-  - name: 'Ido Steuer '
-    image_webp: ''
-    image: "/images/idonew.jpg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/4773-5615-0370
   - name: Vanessa Giuliani
     image_webp: ''
     image: "/images/vanessa-giuliani-208-25.jpeg"
