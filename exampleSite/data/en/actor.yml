@@ -11,14 +11,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0459-1208-8565
-  - name: Duncan Hodgkinson
-    image_webp: ''
-    image: "/images/duncan-hodgkinson-croppp-new.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/2771-0160-3296
   - name: 'Ido Steuer '
     image_webp: ''
     image: "/images/idonew.jpg"
