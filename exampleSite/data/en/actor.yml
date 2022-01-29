@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Duncan Hodgkinson
+    image_webp: ''
+    image: "/images/duncan-hodgkinson-crop.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/2771-0160-3296
   - name: Adrianna Liu
     image_webp: ''
     image: "/images/adrianna-liu-new-crop.jpeg"
