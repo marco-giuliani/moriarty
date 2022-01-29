@@ -309,7 +309,7 @@ actor:
       link: https://www.spotlight.com/9000-1207-3512
   - name: Rohanne Woods
     image_webp: ''
-    image: "/images/rohanne-woods-25.jpeg"
+    image: "/images/rohanne-woods-crop.jpeg"
     designation: ''
     content: ''
     social:
