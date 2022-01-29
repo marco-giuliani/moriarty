@@ -3,6 +3,12 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Stuart William Morrison
+    image_webp: ''
+    image: "/images/stuart-william-morrison-crop.jpeg"
+    designation: ''
+    content: ''
+    social: ''
   - name: Adrianna Liu
     image_webp: ''
     image: "/images/adrianna-liu-new-crop.jpeg"
