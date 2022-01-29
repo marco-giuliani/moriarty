@@ -21,7 +21,7 @@ actor:
       link: https://www.spotlight.com/0533-4508-9509
   - name: Tatiana Chiline
     image_webp: ''
-    image: "/images/tatiana-chiline-25.jpeg"
+    image: "/images/tatiana-chiline-crop.jpeg"
     designation: ''
     content: ''
     social:
