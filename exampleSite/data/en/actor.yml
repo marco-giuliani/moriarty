@@ -3,14 +3,6 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
-  - name: Stuart William Morrison
-    image_webp: ''
-    image: "/images/stuart-william-morrison-crop.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/1410-8948-4637
   - name: Adrianna Liu
     image_webp: ''
     image: "/images/adrianna-liu-new-crop.jpeg"
@@ -323,3 +315,11 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1171-3421-9151
+  - name: Stuart William Morrison
+    image_webp: ''
+    image: "/images/stuart-william-morrison-crop.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/1410-8948-4637
