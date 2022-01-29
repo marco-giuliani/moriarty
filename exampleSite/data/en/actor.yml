@@ -3,14 +3,6 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
-  - name: Mark Hobkirk
-    image_webp: ''
-    image: "/images/mark-hobkirk-crop.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/9495-1270-9579
   - name: Adrianna Liu
     image_webp: ''
     image: "/images/adrianna-liu-new-crop.jpeg"
@@ -139,6 +131,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0217-3492-1261
+  - name: Mark Hobkirk
+    image_webp: ''
+    image: "/images/mark-hobkirk-crop.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/9495-1270-9579
   - name: John-James Colvin
     image_webp: ''
     image: "/images/john-james-colvin-25.jpeg"
