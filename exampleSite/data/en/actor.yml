@@ -189,7 +189,7 @@ actor:
       link: https://www.spotlight.com/5816-4502-0059
   - name: 'Abigail McDonald '
     image_webp: ''
-    image: "/images/abigail-mcdonald-25.jpeg"
+    image: "/images/abigail-mcdonald-crop.jpeg"
     designation: ''
     content: ''
     social:
