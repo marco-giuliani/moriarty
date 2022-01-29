@@ -8,7 +8,9 @@ actor:
     image: "/images/stuart-william-morrison-crop.jpeg"
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/1410-8948-4637
   - name: Adrianna Liu
     image_webp: ''
     image: "/images/adrianna-liu-new-crop.jpeg"
