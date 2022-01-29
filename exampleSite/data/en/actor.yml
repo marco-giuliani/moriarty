@@ -99,6 +99,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/8171-0199-9364
+  - name: 'Josh Knowles '
+    image_webp: ''
+    image: "/images/josh-knowles-crop.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/5816-4502-0059
   - name: Olivia McIntosh
     image_webp: ''
     image: "/images/olivia-mcintosh-25.jpeg"
@@ -179,14 +187,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/8133-8979-5763
-  - name: 'Josh Knowles '
-    image_webp: ''
-    image: "/images/josh-knowles-crop.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/5816-4502-0059
   - name: 'Abigail McDonald '
     image_webp: ''
     image: "/images/abigail-mcdonald-crop.jpeg"
