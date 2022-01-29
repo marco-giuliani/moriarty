@@ -59,14 +59,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/4410-1207-8593
-  - name: Vanessa Giuliani
-    image_webp: ''
-    image: "/images/vanessa-giuliani-208-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/1818-1207-0590
   - name: 'Jai Sharma '
     image_webp: ''
     image: "/images/jai-sharma-25.jpeg"
@@ -339,3 +331,11 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1410-8948-4637
+  - name: Vanessa Giuliani
+    image_webp: ''
+    image: "/images/vanessa-giuliani-208-25.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/1818-1207-0590
