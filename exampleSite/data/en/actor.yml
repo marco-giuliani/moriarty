@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: John Tulloch
+    image_webp: ''
+    image: "/images/john-tulloch-crop.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/9917-0167-3329
   - name: Adrianna Liu
     image_webp: ''
     image: "/images/adrianna-liu-new-crop.jpeg"
