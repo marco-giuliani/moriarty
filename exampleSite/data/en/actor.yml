@@ -275,14 +275,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/2610-1276-6657
-  - name: Sanjay Lago
-    image_webp: ''
-    image: "/images/sanjay-lago-3-copy-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/8615-4501-2163
   - name: Mick Cullen
     image_webp: ''
     image: "/images/mick-cullen-25.jpeg"
