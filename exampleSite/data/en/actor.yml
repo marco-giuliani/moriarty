@@ -75,17 +75,17 @@ actor:
     social:
     - icon: ti-video-camera
       link: ''
-  - name: Duncan Hodgkinson
+  - name: Vanessa Giuliani
     image_webp: ''
-    image: "/images/duncan-hodgkinson1.jpeg"
+    image: "/images/vanessa-giuliani-208-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: ''
-  - name: Kirstan McKay
+      link: https://www.spotlight.com/1818-1207-0590
+  - name: Duncan Hodgkinson
     image_webp: ''
-    image: "/images/kirstan-mckay1.jpeg"
+    image: "/images/duncan-hodgkinson1.jpeg"
     designation: ''
     content: ''
     social:
@@ -118,6 +118,14 @@ actor:
   - name: Maya O'Shea
     image_webp: ''
     image: "/images/maya-o-shea1.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: ''
+  - name: Kirstan McKay
+    image_webp: ''
+    image: "/images/kirstan-mckay1.jpeg"
     designation: ''
     content: ''
     social:
@@ -395,11 +403,3 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1410-8948-4637
-  - name: Vanessa Giuliani
-    image_webp: ''
-    image: "/images/vanessa-giuliani-208-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/1818-1207-0590
