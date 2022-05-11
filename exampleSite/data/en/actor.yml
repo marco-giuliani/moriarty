@@ -35,10 +35,12 @@ actor:
     social: ''
   - name: Steve Walker
     image_webp: ''
-    image: ''
+    image: "/images/steve-walker1.jpeg"
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: ''
   - name: Tony Harrison
     image_webp: ''
     image: "/images/tony-harrison1.jpeg"
