@@ -83,14 +83,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1818-1207-0590
-  - name: Duncan Hodgkinson
+  - name: William McFadzean
     image_webp: ''
-    image: "/images/duncan-hodgkinson1.jpeg"
+    image: "/images/will-mcfadzean-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: ''
+      link: https://www.spotlight.com/8216-0169-7880
   - name: Chelsea Grace
     image_webp: ''
     image: "/images/chelsea-grace1.jpeg"
@@ -110,6 +110,14 @@ actor:
   - name: Luana Carneiro
     image_webp: ''
     image: "/images/luana-carneiro1.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: ''
+  - name: Duncan Hodgkinson
+    image_webp: ''
+    image: "/images/duncan-hodgkinson1.jpeg"
     designation: ''
     content: ''
     social:
@@ -155,14 +163,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0853-9086-1809
-  - name: William McFadzean
-    image_webp: ''
-    image: "/images/will-mcfadzean-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/8216-0169-7880
   - name: Jackson Price
     image_webp: ''
     image: "/images/jackson-price-25.jpeg"
