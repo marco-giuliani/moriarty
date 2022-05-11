@@ -3,14 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
-  - name: Adrianna Liu
+  - name: Millie Anna Prelogar
     image_webp: ''
-    image: "/images/adrianna-liu-new-croppp.jpeg"
+    image: "/images/millie-anna-prelogar1.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: https://www.spotlight.com/9814-6759-5256
+      link: ''
   - name: Caelan Martyn
     image_webp: ''
     image: "/images/caelan-martyn-25.jpeg"
@@ -35,14 +35,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/4410-1207-8593
-  - name: Millie Anna Prelogar
+  - name: Adrianna Liu
     image_webp: ''
-    image: "/images/millie-anna-prelogar1.jpeg"
+    image: "/images/adrianna-liu-new-croppp.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: ''
+      link: https://www.spotlight.com/9814-6759-5256
   - name: Tamar Baruch
     image_webp: ''
     image: "/images/tamarnew.jpg"
