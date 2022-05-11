@@ -29,10 +29,12 @@ actor:
       link: ''
   - name: Chelsea Grace
     image_webp: ''
-    image: ''
+    image: "/images/chelsea-grace1.jpeg"
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: ''
   - name: Darragh Conway
     image_webp: ''
     image: "/images/darragh-conway1.jpeg"
