@@ -67,14 +67,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0818-0190-9714
-  - name: Jay Moir
+  - name: 'Jai Sharma '
     image_webp: ''
-    image: "/images/jay-moir1.jpeg"
+    image: "/images/jai-sharma-25.jpeg"
     designation: ''
     content: ''
     social:
     - icon: ti-video-camera
-      link: ''
+      link: https://www.spotlight.com/0517-6728-3165
   - name: Vanessa Giuliani
     image_webp: ''
     image: "/images/vanessa-giuliani-208-25.jpeg"
@@ -131,6 +131,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: ''
+  - name: Jay Moir
+    image_webp: ''
+    image: "/images/jay-moir1.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: ''
   - name: Steve Walker
     image_webp: ''
     image: "/images/steve-walker1.jpeg"
@@ -147,14 +155,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0853-9086-1809
-  - name: 'Jai Sharma '
-    image_webp: ''
-    image: "/images/jai-sharma-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0517-6728-3165
   - name: William McFadzean
     image_webp: ''
     image: "/images/will-mcfadzean-25.jpeg"
