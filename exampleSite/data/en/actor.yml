@@ -371,14 +371,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9917-0167-3329
-  - name: Alexander Artis
-    image_webp: ''
-    image: "/images/alexander-artis-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/4612-6723-3735
   - name: Nina Cattanach
     image_webp: ''
     image: "/images/nina-cattanach-25.jpeg"
