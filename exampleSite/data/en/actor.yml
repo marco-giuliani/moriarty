@@ -3,6 +3,18 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Chelsea Grace
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
+  - name: Darragh Conway
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Luana Carneiro
     image_webp: ''
     image: ''
