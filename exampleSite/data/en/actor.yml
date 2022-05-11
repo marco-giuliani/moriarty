@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Kirstan McKay
+    image_webp: ''
+    image: "/images/kirstan-mckay1.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: ''
   - name: Chelsea Grace
     image_webp: ''
     image: ''
