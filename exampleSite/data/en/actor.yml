@@ -3,6 +3,18 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
+  - name: Maya O'Shea
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Millie Anna Prelogar
     image_webp: ''
     image: ''
