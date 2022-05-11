@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Duncan Hodgkinson
+    image_webp: ''
+    image: "/images/duncan-hodgkinson1.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: ''
   - name: Jay Moir
     image_webp: ''
     image: "/images/jay-moir1.jpeg"
