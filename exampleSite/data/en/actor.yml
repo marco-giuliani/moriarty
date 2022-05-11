@@ -3,6 +3,24 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
+  - name: Tony Harrison
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Tamar Baruch
     image_webp: ''
     image: "/images/tamarnew.jpg"
