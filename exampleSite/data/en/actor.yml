@@ -44,7 +44,9 @@ actor:
     image: "/images/tony-harrison1.jpeg"
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-video-camera
+      link: ''
   - name: Tamar Baruch
     image_webp: ''
     image: "/images/tamarnew.jpg"
