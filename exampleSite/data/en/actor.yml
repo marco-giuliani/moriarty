@@ -107,14 +107,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: ''
-  - name: Luana Carneiro
-    image_webp: ''
-    image: "/images/luana-carneiro1.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: ''
   - name: Duncan Hodgkinson
     image_webp: ''
     image: "/images/duncan-hodgkinson1.jpeg"
@@ -331,14 +323,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/5497-9053-9086
-  - name: Cara Burns
-    image_webp: ''
-    image: "/images/cara-burns-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/7333-9082-4634
   - name: Michael Francis
     image_webp: ''
     image: "/images/michael-francis-25.jpeg"
