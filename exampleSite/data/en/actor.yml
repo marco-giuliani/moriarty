@@ -130,7 +130,7 @@ actor:
     content: ''
     social:
     - icon: ti-video-camera
-      link: ''
+      link: https://www.spotlight.com/0358-9051-7544
   - name: Jay Moir
     image_webp: ''
     image: "/images/jay-moir1.jpeg"
