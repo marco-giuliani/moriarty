@@ -353,6 +353,8 @@ actor:
     designation: ''
     content: ''
     social:
+    - icon: ''
+      link: ''
     - icon: ti-video-camera
       link: https://www.spotlight.com/2058-8941-4638
   - name: John Tulloch
