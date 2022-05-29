@@ -122,7 +122,7 @@ actor:
     content: ''
     social:
     - icon: ti-video-camera
-      link: ''
+      link: https://www.spotlight.com/2162-4537-9123
   - name: Kirstan McKay
     image_webp: ''
     image: "/images/kirstan-mckay1.jpeg"
