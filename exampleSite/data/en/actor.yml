@@ -106,7 +106,7 @@ actor:
     content: ''
     social:
     - icon: ti-video-camera
-      link: ''
+      link: https://www.spotlight.com/4053-5611-9338
   - name: Duncan Hodgkinson
     image_webp: ''
     image: "/images/duncan-hodgkinson1.jpeg"
