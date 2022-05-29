@@ -146,7 +146,7 @@ actor:
     content: ''
     social:
     - icon: ti-video-camera
-      link: ''
+      link: https://www.spotlight.com/2253-5617-9512
   - name: Tatiana Chiline
     image_webp: ''
     image: "/images/tatiana-chiline-crop.jpeg"
