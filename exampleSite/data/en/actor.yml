@@ -138,7 +138,7 @@ actor:
     content: ''
     social:
     - icon: ti-video-camera
-      link: ''
+      link: https://www.spotlight.com/7410-5618-4545
   - name: Steve Walker
     image_webp: ''
     image: "/images/steve-walker1.jpeg"
