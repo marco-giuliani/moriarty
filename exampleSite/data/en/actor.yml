@@ -98,7 +98,7 @@ actor:
     content: ''
     social:
     - icon: ti-video-camera
-      link: ''
+      link: https://www.spotlight.com/3414-5643-6321
   - name: Darragh Conway
     image_webp: ''
     image: "/images/darragh-conway1.jpeg"
