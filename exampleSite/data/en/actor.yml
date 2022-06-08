@@ -91,14 +91,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/8216-0169-7880
-  - name: Chelsea Grace
-    image_webp: ''
-    image: "/images/chelsea-grace1.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/3414-5643-6321
   - name: Darragh Conway
     image_webp: ''
     image: "/images/darragh-conway1.jpeg"
