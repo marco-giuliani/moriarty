@@ -323,14 +323,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/6215-7832-3663
-  - name: Valerie Andrews
-    image_webp: ''
-    image: "/images/valerie-andrews-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/4375-3422-1265
   - name: Luke Farrell
     image_webp: ''
     image: "/images/luke-farrell-25.png"
