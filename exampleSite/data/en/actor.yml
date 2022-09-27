@@ -115,14 +115,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/2162-4537-9123
-  - name: Kirstan McKay
-    image_webp: ''
-    image: "/images/kirstan-mckay1.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0358-9051-7544
   - name: Jay Moir
     image_webp: ''
     image: "/images/jay-2.jpg"
@@ -163,6 +155,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/8171-0199-9364
+  - name: Kirstan McKay
+    image_webp: ''
+    image: "/images/kirstan-mckay1.jpeg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/0358-9051-7544
   - name: 'Josh Knowles '
     image_webp: ''
     image: "/images/josh-2.jpg"
@@ -219,14 +219,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/6810-8977-9452
-  - name: Frank Richardson
-    image_webp: ''
-    image: "/images/frank-richardson-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/4134-5611-4477
   - name: Sasha Reid
     image_webp: ''
     image: "/images/reid-new.jpg"
@@ -235,14 +227,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/1416-5641-6522
-  - name: Corey Young
-    image_webp: ''
-    image: "/images/corey-young-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0099-1278-8112
   - name: Sarah-Beth Brown
     image_webp: ''
     image: "/images/sarah-b-2.jpg"
@@ -291,22 +275,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/2755-3421-8950
-  - name: Cerys Hogg
-    image_webp: ''
-    image: "/images/cerys-hogg-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/3138-8972-0532
-  - name: Austin Hayden
-    image_webp: ''
-    image: "/images/austin-hayden-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/5497-9053-9086
   - name: Michael Francis
     image_webp: ''
     image: "/images/michael-francis-25.jpeg"
@@ -341,14 +309,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/9917-0167-3329
-  - name: Nina Cattanach
-    image_webp: ''
-    image: "/images/nina-cattanach-25.jpeg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/9000-1207-3512
   - name: Rohanne Woods
     image_webp: ''
     image: "/images/rohanne-woods-crop.jpeg"
