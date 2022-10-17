@@ -51,14 +51,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/4773-5615-0370
-  - name: 'Estella Wright '
-    image_webp: ''
-    image: "/images/estella-2.jpg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/0818-0190-9714
   - name: Amber Murray
     image_webp: ''
     image: "/images/amber-murray-25.jpeg"
