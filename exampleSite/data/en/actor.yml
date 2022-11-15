@@ -3,6 +3,14 @@ actor:
   enable: true
   title: Our Actors
   actor_member:
+  - name: Darragh Conway
+    image_webp: ''
+    image: "/images/darragh-2.jpg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/4053-5611-9338
   - name: Tamar Baruch
     image_webp: ''
     image: "/images/tamar-2.jpg"
@@ -11,14 +19,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0459-1208-8565
-  - name: Millie Anna Prelogar
-    image_webp: ''
-    image: "/images/millie-2.jpg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/8217-1207-4788
   - name: Maya O'Shea
     image_webp: ''
     image: "/images/maya-o-shea.jpg"
@@ -51,14 +51,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/8216-0169-7880
-  - name: Darragh Conway
-    image_webp: ''
-    image: "/images/darragh-2.jpg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/4053-5611-9338
   - name: Duncan Hodgkinson
     image_webp: ''
     image: "/images/duncan-2.jpg"
@@ -67,6 +59,14 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/2771-0160-3296
+  - name: Millie Anna Prelogar
+    image_webp: ''
+    image: "/images/millie-2.jpg"
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-video-camera
+      link: https://www.spotlight.com/8217-1207-4788
   - name: 'Ido Steuer '
     image_webp: ''
     image: "/images/ido-2.jpg"
