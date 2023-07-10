@@ -19,14 +19,6 @@ actor:
     social:
     - icon: ti-video-camera
       link: https://www.spotlight.com/0459-1208-8565
-  - name: Maya O'Shea
-    image_webp: ''
-    image: "/images/maya-o-shea.jpg"
-    designation: ''
-    content: ''
-    social:
-    - icon: ti-video-camera
-      link: https://www.spotlight.com/2162-4537-9123
   - name: 'Jai Sharma '
     image_webp: ''
     image: "/images/jai-sharma-25.jpeg"
